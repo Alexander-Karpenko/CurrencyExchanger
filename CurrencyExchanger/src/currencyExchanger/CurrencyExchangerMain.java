@@ -17,6 +17,7 @@ public class CurrencyExchangerMain  {
 	//сделать выпадающее меню, реализовать логику конвертирования
 
 	public static void main(String[] args) {
+		System.out.println("git test");
 		CurrencyExchangerMetods CurrExchang = new CurrencyExchangerMetods(Currency.DOLLARS, Currency.DOLLARS);
 //		CurrExchang.setInputValue(1);
 //		CurrExchang.Exchange();
