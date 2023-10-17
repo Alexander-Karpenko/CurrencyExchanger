@@ -18,6 +18,7 @@ public class CurrencyExchangerMain  {
 
 	public static void main(String[] args) {
 		System.out.println("git test");
+		System.out.println("commit 2");
 		CurrencyExchangerMetods CurrExchang = new CurrencyExchangerMetods(Currency.DOLLARS, Currency.DOLLARS);
 //		CurrExchang.setInputValue(1);
 //		CurrExchang.Exchange();
