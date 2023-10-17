@@ -17,7 +17,7 @@ public class CurrencyExchangerMain  {
 	//сделать выпадающее меню, реализовать логику конвертирования
 
 	public static void main(String[] args) {
-//      тут я переделаю конвертер валют с jframe на web версию 		
+//      тут я переделаю конвертер валют с jframe на web версию 	1	
 		CurrencyExchangerMetods CurrExchang = new CurrencyExchangerMetods(Currency.DOLLARS, Currency.DOLLARS);
 //		CurrExchang.setInputValue(1);
 //		CurrExchang.Exchange();
