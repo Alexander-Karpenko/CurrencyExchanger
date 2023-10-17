@@ -14,7 +14,7 @@ import javax.swing.JTextField;
 
 public class CurrencyExchangerMain  {
 
-	//сделать выпадающее меню, реализовать логику конвертирования
+	//сделать выпадающее меню, реализовать логику конвертирования1
 
 	public static void main(String[] args) {
 		CurrencyExchangerMetods CurrExchang = new CurrencyExchangerMetods(Currency.DOLLARS, Currency.DOLLARS);
